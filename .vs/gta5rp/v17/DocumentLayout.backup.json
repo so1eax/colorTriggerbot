@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fsefse345tdg24tegdrg\\Desktop\\gta5rp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0559AC7A-0E8C-4A61-8D0B-BBDD3C1D81F1}|gta5rp\\gta5rp.vcxproj|C:\\Users\\fsefse345tdg24tegdrg\\Desktop\\gta5rp\\gta5rp\\gta5rp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0559AC7A-0E8C-4A61-8D0B-BBDD3C1D81F1}|gta5rp\\gta5rp.vcxproj|solutionrelative:gta5rp\\gta5rp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "gta5rp.cpp",
+              "DocumentMoniker": "C:\\Users\\fsefse345tdg24tegdrg\\Desktop\\gta5rp\\gta5rp\\gta5rp.cpp",
+              "RelativeDocumentMoniker": "gta5rp\\gta5rp.cpp",
+              "ToolTip": "C:\\Users\\fsefse345tdg24tegdrg\\Desktop\\gta5rp\\gta5rp\\gta5rp.cpp",
+              "RelativeToolTip": "gta5rp\\gta5rp.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAEAAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-26T11:48:12.222Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
